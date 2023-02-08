@@ -1,0 +1,36 @@
+:root{
+  --Black:#303030;
+  --Grey-light:rgba(157, 164, 189, 0.6);
+  --Grey-background:#F7F7F7;
+  --Grey-Dark:#555555;
+  --Orange:#FF6C00;
+  --White:#FFF;
+}
+
+body{
+  font-family: open-sans, sans-serif;
+}
+li {
+  list-style: none;
+}
+
+ul {
+  padding-inline-start: 0;
+  margin-bottom: 0px;
+  margin-top: 0px;
+}
+
+p,
+h1,
+h2 {
+  margin-top: 0px;
+  margin-bottom: 0;
+}
+
+.link {
+  text-decoration: none;
+}
+
+img {
+  display: block;
+}
